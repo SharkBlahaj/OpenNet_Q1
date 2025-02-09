@@ -41,6 +41,7 @@ This project requires only standard Python libraries (`threading`, `queue`, `ran
 ### Example `requirements.txt`
 
 ```
+python==3.9.0
 # No external dependencies required
 ```
 
