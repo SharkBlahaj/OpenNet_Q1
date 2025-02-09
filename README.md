@@ -26,12 +26,12 @@ The program will run for 10 seconds, producing and consuming random integers.
 ## Directory Structure
 
 ```
-project_root/
-│-- script.py            # The main producer-consumer script
+OpenNet_Q1/
+│-- Q1_multithreading.py            # The main producer-consumer script
 │-- requirements.txt     # Required dependencies
 │-- README.md            # Documentation
 │-- assets/
-│   ├── demo.gif         # GIF showing the script running
+│   ├── OpenNet_Q1.gif         # GIF showing the script running
 ```
 
 ## Dependencies
