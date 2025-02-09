@@ -27,11 +27,11 @@ The program will run for 10 seconds, producing and consuming random integers.
 
 ```
 OpenNet_Q1/
-│-- Q1_multithreading.py            # The main producer-consumer script
-│-- requirements.txt     # Required dependencies
-│-- README.md            # Documentation
+│-- Q1_multithreading.py 
+│-- requirements.txt 
+│-- README.md  
 │-- assets/
-│   ├── OpenNet_Q1.gif         # GIF showing the script running
+│   ├── OpenNet_Q1.gif 
 ```
 
 ## Dependencies
