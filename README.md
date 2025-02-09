@@ -49,6 +49,7 @@ python==3.9.0
 
 Below is a GIF demonstrating the script running:
 
+![](https://github.com/SharkBlahaj/OpenNet_Q1/blob/main/assets/OpenNet_Q1.gif)
 
 
 The output will display produced and consumed numbers in real time.
