@@ -6,7 +6,7 @@ This project demonstrates a multithreading producer-consumer scenario using Pyth
 
 ### Prerequisites
 
-Make sure you have Python installed on your system (Python 3.x recommended).
+Make sure you have Python installed on your system (Python 3.9 recommended).
 
 ### Steps to Run:
 
