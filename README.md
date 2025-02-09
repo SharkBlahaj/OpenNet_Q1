@@ -45,19 +45,6 @@ python==3.9.0
 # No external dependencies required
 ```
 
-### Example `pyproject.toml`
-
-```toml
-[tool.poetry]
-name = "multithreading-producer-consumer"
-version = "0.1.0"
-description = "A Python program demonstrating multithreading with producer-consumer model"
-authors = ["Your Name <your.email@example.com>"]
-
-[tool.poetry.dependencies]
-python = ">=3.6"
-```
-
 ## Demo
 
 Below is a GIF demonstrating the script running:
